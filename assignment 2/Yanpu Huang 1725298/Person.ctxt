@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\n\ create\ the\ class\ of\ Person\n
+comment1.params=name
+comment1.target=Person(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Person.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ return\ name\ of\ getName\ method.\n
+comment3.params=rooms
+comment3.target=void\ getRoom(java.util.HashMap)
+comment3.text=\n\ definate\ rooms\ into\ room\ of\ hashmap\ method.\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\n\ make\ a\ random\ move\ action\ of\ person.\n
+comment5.params=
+comment5.target=Room\ getPlace()
+comment5.text=\n\ make\ a\ checking\ for\ the\ position\ of\ the\ person.\n
+numComments=6

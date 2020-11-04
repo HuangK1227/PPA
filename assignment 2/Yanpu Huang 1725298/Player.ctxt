@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player\ here.\n\ \n\ @author\ \n\ @version\ 05.05.2009\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Player\n
+comment2.params=x
+comment2.target=void\ addItem(Item)
+comment2.text=\n\ add\ items\ into\ player\ .\n
+comment3.params=itemName
+comment3.target=void\ removeItem(java.lang.String)
+comment3.text=\n\ remove\ items\ from\ player.\n
+comment4.params=
+comment4.target=boolean\ checkMedicine()
+comment4.text=\n\ check\ if\ u\ have\ medicine\ \n\ medicines\ are\ in\ the\ clothes\ and\ cup.\n
+comment5.params=name
+comment5.target=Item\ getItem(java.lang.String)
+comment5.text=\n\ show\ name\ of\ items\ on\ the\ player\n
+numComments=6

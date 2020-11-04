@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ImageViewer
+comment0.text=\r\n\ \ \r\n\ @YANPU\ HUANG\ \r\n\ @1725298\ \r\n
+comment1.params=
+comment1.target=ImageViewer()
+comment1.text=\r\n\ Create\ an\ ImageViewer\ and\ display\ its\ GUI\ on\ screen.\r\n
+comment2.params=
+comment2.target=void\ nextImage()
+comment2.text=\r\n\ Create\ an\ action\ when\ you\ click\ nextImage\r\n
+comment3.params=
+comment3.target=void\ previousImage()
+comment3.text=\r\n\ Create\ an\ acntion\ when\ you\ click\ previousImage\r\n
+comment4.params=
+comment4.target=void\ fishEye()
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=int\ getNumberOfImagesViewed()
+comment6.params=
+comment6.target=int\ averageImageWidth()
+numComments=7
